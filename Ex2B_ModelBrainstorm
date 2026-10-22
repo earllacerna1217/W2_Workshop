@@ -7,6 +7,11 @@ What different categories of data might be important to track? Customers, dog an
 
 C) For each broad category of data that you come up with, what specific pieces of
 information would be useful to track? 
+
+For client information: customer_id, first and last name, email, city and the date and time their customer id were created. 
+For dog information: Dog_id, dog name, and dog breed. 
+For appoitment information: Appoitnment_id, customer_id, dog_id and date, time of the appointment and service price
+
 -For each category, create a list of bullets
 with what information that category includes
 
