@@ -63,13 +63,13 @@ conversation as you discuss the questions below.
 
 a) What are the similarities between individual diagrams? What turned out the same?
 
--Maream's comment about Earl's EDR Diagram:
+-Maream's comment about Earl's EDR Diagram:Both of our diagrams have the same three tables: Clients, Dogs, and Appointments. We also used the same primary and foreign keys and showed the same one-to-many relationships between the tables. Overall, we had the same idea of how the database should be organized.
 
 -Earl's comment about Maream's EDR Diagram:
 
 b) Where did each of your diagrams differ? What explanation do you have for those
 differences? What might be the pros and cons of each approach?
 
--Maream's comment about Earl's EDR Diagram:
+-Maream's comment about Earl's EDR Diagram:Our diagrams were almost the same, but we explained things a little differently. Earl included descriptions under each relationship, which made his diagram easier to understand. Mine focused more on explaining what PK, FK, and one-to-many mean. I think both approaches are helpful because his makes the relationships easier to follow, while mine explains the database terms in more detail. Overall, there weren’t any major differences in how we organized our tables.
 
 -Earl's comment about Maream's EDR Diagram:
