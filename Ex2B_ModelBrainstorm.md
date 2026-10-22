@@ -54,3 +54,22 @@ need to be reassembled together when data is retrieved from the database?
 
 d) Can you identify any possible many to many relationships?
 -For our design we do not need a many to many relationships. But if Lana starts offering group walks with more than one dog in one appointment, we would add another table to connect with group walks.
+
+--------------------------------
+
+4. Reconvene with your small group and take turns reviewing each of your diagrams.
+Have one person open Ex2B_Model_Brainstorm.md and take notes on your group’s
+conversation as you discuss the questions below.
+
+a) What are the similarities between individual diagrams? What turned out the same?
+
+-Maream's comment about Earl's EDR Diagram:
+
+-Earl's comment about Maream's EDR Diagram:
+
+b) Where did each of your diagrams differ? What explanation do you have for those
+differences? What might be the pros and cons of each approach?
+
+-Maream's comment about Earl's EDR Diagram:
+
+-Earl's comment about Maream's EDR Diagram:
